@@ -10,3 +10,7 @@ Here I will write a new information as a show.
 
 ### THIS IS THE HEADER CREATED IN THE MY LOCAL FOLDER
 This is the description on the changes made in my local folder.
+
+
+## LOCAL DEVELOPMENT
+1. Open index.html in your browser.
